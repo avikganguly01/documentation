@@ -121,9 +121,9 @@ OpenG2P is an opensource and collaborative approach to helping governments and h
 
 ### Contributors
 
-OpenG2P emerged out of the 2014-2016 Sierra Leone Ebola Payments Program, bootstrapped by the [DSTI, GoSL](https://dsti.gov.sl) and is now being developed as a Digital Public Good.
+OpenG2P emerged out of the 2014-2016 Sierra Leone Ebola Payments Program, bootstrapped by the [DSTI, GoSL](https://dsti.gov.sl), [iDT Labs](https://idtlabs.xyz), [Mifos](https://mifos.org) and partners and is now being developed as a Digital Public Good.
 
-OpenG2P depends on an active community of volunteers. Anyone can help with defining challenges, delve into the github backlog, and improve the documentation on this site.
+OpenG2P depends on an active community of volunteers. Anyone can help with defining challenges, delve into the Github backlog, and improve the documentation on this site.
 
 [Be a Contributor](#){: class="button outline-btn"}
 

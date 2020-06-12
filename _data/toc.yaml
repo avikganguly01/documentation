@@ -6,6 +6,9 @@ horizontalnav:
 - title: Building Blocks
   path: /erp/
   node: manuals
+- title: Working Group
+  path: /working-group/
+  node: workinggroup
 - title: Community
   path: /community/
   node: community
@@ -41,6 +44,11 @@ guides:
 - path: /glossary/
   title: Glossary
 
+workinggroup:
+- sectiontitle: Working Group
+  section:
+  - path: /working-group/
+    title: Minutes of Meetings
 
 community:
 - path: /community
