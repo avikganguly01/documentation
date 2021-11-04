@@ -2,7 +2,7 @@
 
 # OpenG2P Documentations
 
-Welcome to the repo for our documentation. This is the source for
+Hi, Welcome to the repo for our documentation. This is the source for
 [https://docs.openg2p.com/](https://docs.openg2p.com/).
 
 Feel free to send us pull requests and file issues. Our docs are completely
